@@ -1,0 +1,10 @@
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Data.dll.config
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Data.dll
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Data.pdb
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\bin\Debug\EntityFramework.dll
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\bin\Debug\EntityFramework.xml
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.csprojResolveAssemblyReference.cache
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.dll
+C:\Users\balvarez\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.pdb
